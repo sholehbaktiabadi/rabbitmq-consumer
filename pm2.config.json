@@ -1,0 +1,11 @@
+{
+    "apps": [
+        {
+            "name": "rabbitmq-consumer",
+            "script": "npm",
+            "args" : "run start",
+            "instances": 1,
+            "autorestart": true
+        }
+    ]
+}
