@@ -6,7 +6,7 @@ $ 20.4.0
 
 ## This Service is depends to another github repository
 
-Click [here](https://github.com/sholehbaktiabadi/rabbitmq-publiser) clone another depends repository.
+Click [here](https://github.com/sholehbaktiabadi/rabbitmq-publiser) to clone another depends repository.
 
 ## Installation
 
